@@ -24,8 +24,45 @@
 
 # Smeltery Structure (3x3x5)
 
-![LavaCurrent] https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true
+Layer 1
 
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35"><img width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBrickSlab.png?raw=true" width="35">
+
+Layer 2
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/BlackStainedGlass.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+Layer 3
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/ChiseledPolishedBlackstoneBrick.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+Layer 4 (Ground)
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/GildedBlackstone.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/PolishedBlackstoneBricks.png?raw=true" width="35">
+
+Layer 5
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35">
+
+<img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35"><img src="https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true" width="35">
 
 # Future updates
 - Support for ores
