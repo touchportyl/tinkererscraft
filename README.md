@@ -23,10 +23,13 @@
 - Place an anvil below the lever
 
 # Smeltery Structure (3x3x5)
-- 
+
+![LavaCurrent] https://github.com/touchportal/tinkersconstruct/blob/master/icons/LavaCurrent.png?raw=true
+
 
 # Future updates
 - Support for ores
+- Sounds and particles
 - Cauldron System to produce blocks
 - Anvil System to produce tools
 - Obsidian Pickaxe
