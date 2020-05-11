@@ -9,7 +9,7 @@
 
 # Installation
 - Download tinkersconstruct.zip
-- Go to .minecraft/saves/<world name>/datapacks/
+- Go to .minecraft/saves/[world_name]/datapacks/
 - Put the zip file inside
 - Enjoy!
 
