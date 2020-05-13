@@ -1,4 +1,4 @@
-# Tinkers Construct v1.3 for Vanilla MC 1.16
+# Tinkerer's Craft v1.4 for Vanilla MC 1.16
 - Code by [touchportal](https://github.com/touchportal/)
 
 # Features
@@ -17,8 +17,13 @@
 - Anvil System to produce tools, nuggets, and ingots (Added in v1.3)
 - Tools produced are enchanted (Added in v1.3)
 
+- Changed the name to Tinkerer's Craft (Added in v1.4)
+- Support for custom alloys (Added in v1.4)
+- Irgol (Added in v1.4)
+- Obdiam (Added in v1.4)
+
 # Installation
-- Download tinkersconstruct.zip
+- Download tinkererscraft.zip
 - Go to .minecraft/saves/[world_name]/datapacks/
 - Put the zip file inside
 - Enjoy!
@@ -31,9 +36,6 @@
 - Throw in smeltables
 
 # Future updates
-- Change the name to something else (Maybe Tinkerer's Craft)
-- Custom alloy: Irgol (Looks like Iron) - (Redstone catalyst to fuse 2 Iron and 3 Gold)
-- Custom alloy: Obdiam (Looks like Netherite) - (Diamond catalyst to fuse 9 Iron and 2 Obsidian)
 - Custom enchant: Sweeping Edge X (for Irgol and Obdiam pickaxes) - Pickaxe mines 3x3x1
 - Custom enchant: Quick Charge X (for Irgol and Obdiam swords) - Sneak to get a burst of speed
 - Custom enchant: Riptide X (for Irgol and Obdiam swords) - Chance to levitate low health targets and kill them instantly when dealing damage
