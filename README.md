@@ -1,11 +1,57 @@
-# Tinkerer's Craft v1.4 for Vanilla MC 1.16
+# Tinkerer's Craft v1.7 for Vanilla MC 1.16 [Pre-release 1]
 - Code by [touchportal](https://github.com/touchportal/)
 
 # Features
-- Smeltery
-- Smeltable items (Iron, Gold, Obsidian)
+- Endgame smeltery structure
+- Smeltables (Iron, Gold, Obsidian)
+- Smelting ores give 2 ingots
 - Toggleable display
 - Full multiplayer support
+- Sounds and particles
+- Cauldron System to produce blocks
+- Anvil System to produce tools, nuggets, and ingots
+- Make custom alloys and tools (Irgol, Obdiam)
+- Custom enchants for some tools (Harvester, Lunge, Riptide)
+- Custom quirks for each metal (Lightweight, Shiny, Heated)
+- API system to hook your own plugins to Tinkerer's Craft
+
+
+# Installation
+- Download tinkererscraft.zip
+- Go to .minecraft/saves/[world_name]/datapacks/
+- Put the zip file inside
+- Enjoy!
+
+
+# Plugins included
+- [Harvester Datapack](https://github.com/touchportal/harvester)
+
+
+# How to use
+- Build a smeltery structure (Center of structures cannot be within 15 blocks of each other)
+- Put a lever on the control block
+- Throw in a smeltable item to set up the smeltery
+- Break glass to change display
+- Throw in smeltables
+
+
+# Future updates
+- [Bug] Disable harvester for Tinkerer's Craft if API has doesn't match
+- [Bug] Nether gold ore doesn't melt into gold in the smeltery
+- [Optimization] Move code out of the main script and replace it with a function call
+- [Tweak] Riptide gives double the amount of loot from the mob killed
+- [Gameplay] Custom advancements for doing things in this datapack
+- [Gameplay] Custom enchant: Sweeping Edge X (for Irgol and Obdiam pickaxes) - Pickaxe mines 3x3x1
+- [Gameplay] Custom enchant: Sweeping Edge X (for Irgol and Obdiam axes) - Auto tree chopper
+
+
+# Changelog
+- Smeltery structure (Added in v0.1-alpha)
+
+- Smeltable items (Iron, Gold, Obsidian) (Added in v0.5-beta)
+- Toggleable display (Added in v0.8-beta)
+
+- Full multiplayer support (Added in v1.0)
 
 - Support for smelting some ores (Added in v1.1)
 - Sounds and particles (Added in v1.1)
@@ -22,25 +68,17 @@
 - Irgol (Added in v1.4)
 - Obdiam (Added in v1.4)
 
-# Installation
-- Download tinkererscraft.zip
-- Go to .minecraft/saves/[world_name]/datapacks/
-- Put the zip file inside
-- Enjoy!
+- Create an API system to hook other plugins to Tinkerer's Craft properly (Added in v1.5)
+- Custom enchant: Harvester (for Irgol and Obdiam hoes) - [Harvester Datapack](https://github.com/touchportal/harvester) (Added in v1.5)
 
-# How to use
-- Build a smeltery structure (Center of structures cannot be within 15 blocks of each other)
-- Put a lever on the control block
-- Throw in a smeltable item to set up the smeltery
-- Break glass to change display
-- Throw in smeltables
+- Custom enchant: Lunge (for Irgol swords) - Sneak to get a burst of speed (Added in v1.6)
 
-# Future updates
-- Custom enchant: Sweeping Edge X (for Irgol and Obdiam pickaxes) - Pickaxe mines 3x3x1
-- Custom enchant: Quick Charge X (for Irgol and Obdiam swords) - Sneak to get a burst of speed
-- Custom enchant: Riptide X (for Irgol and Obdiam swords) - Chance to levitate low health targets and kill them instantly when dealing damage
-- Custom enchant: Sweeping Edge X (for Irgol and Obdiam hoes) - Pulled from my [Harvester Datapack](https://github.com/touchportal/harvester)
-- Custom enchant: Sweeping Edge X (for Irgol and Obdiam axes) - Auto tree chopper
+- Lunge has been moved over to Iron Sword (Added in v1.7)
+- Custom enchant: Riptide (for Irgol swords) - The sword has a chance to kill a mob for you (Added in v1.7)
+- Custom quirk: Iron tools are Lightweight - Tools have the efficiency enchant (Added in v1.7)
+- Custom quirk: Obdiam tools are Heated - Auto smelt items on the floor near the player holding it (Added in v1.7)
+- Lots of bug fixes (Added in v1.7)
+
 
 # Smeltery Structure (3x3x5)
 
