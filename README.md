@@ -1,24 +1,26 @@
-# Tinkerer's Craft v1.7 for Vanilla MC 1.16 [Pre-release 1]
+# Tinkerer's Craft v1.9 for Vanilla MC 1.16-rc1
 - Code by [touchportal](https://github.com/touchportal/)
 
 # Features
+- An in-game guide book!
 - Endgame smeltery structure
 - Smeltables (Iron, Gold, Obsidian)
 - Smelting ores give 2 ingots
 - Toggleable display
 - Full multiplayer support
+- Advancements
 - Sounds and particles
 - Cauldron System to produce blocks
 - Anvil System to produce tools, nuggets, and ingots
 - Make custom alloys and tools (Irgol, Obdiam)
-- Custom enchants for some tools (Harvester, Lunge, Riptide)
+- Custom enchants for some tools (Lunge, Riptide, Harvester)
 - Custom quirks for each metal (Lightweight, Shiny, Heated)
 - API system to hook your own plugins to Tinkerer's Craft
 
 
 # Installation
 - Download tinkererscraft.zip
-- Go to .minecraft/saves/[world_name]/datapacks/
+- Go to .minecraft/saves/<world_name>/datapacks/
 - Put the zip file inside
 - Enjoy!
 
@@ -36,11 +38,7 @@
 
 
 # Future updates
-- [Bug] Disable harvester for Tinkerer's Craft if API has doesn't match
-- [Bug] Nether gold ore doesn't melt into gold in the smeltery
 - [Optimization] Move code out of the main script and replace it with a function call
-- [Tweak] Riptide gives double the amount of loot from the mob killed
-- [Gameplay] Custom advancements for doing things in this datapack
 - [Gameplay] Custom enchant: Sweeping Edge X (for Irgol and Obdiam pickaxes) - Pickaxe mines 3x3x1
 - [Gameplay] Custom enchant: Sweeping Edge X (for Irgol and Obdiam axes) - Auto tree chopper
 
@@ -79,6 +77,13 @@
 - Custom quirk: Obdiam tools are Heated - Auto smelt items on the floor near the player holding it (Added in v1.7)
 - Lots of bug fixes (Added in v1.7)
 
+- Added a guide book (Added in v1.8)
+- Guide book shows the smeltery structure when crouched (Added in v1.8)
+- Created advancements for doing things (Added in v1.8)
+- Fixed a bug where auto smelted stuff can smelt other stuff (Added in v1.8)
+
+- Smelting support for nether gold ore (Added in v1.9)
+- Riptide now gives double the loot from the mob it kills (Added in v1.9)
 
 # Smeltery Structure (3x3x5)
 
