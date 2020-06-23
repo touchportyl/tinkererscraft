@@ -1,4 +1,4 @@
-# Tinkerer's Craft v1.9 for Vanilla MC 1.16-rc1
+# Tinkerer's Craft v1.9 for Vanilla MC 1.16
 - Code by [touchportal](https://github.com/touchportal/)
 
 # Features
