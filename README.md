@@ -1,4 +1,4 @@
-# Tinkerer's Craft v1.9 for Vanilla MC 1.16
+# Tinkerer's Craft v1.9.1 for Vanilla MC 1.16-1.16.2
 - Code by [touchportal](https://github.com/touchportal/)
 
 # Features
@@ -25,7 +25,7 @@
 - Enjoy!
 
 
-# Plugins included
+# Plugins
 - [Harvester Datapack](https://github.com/touchportal/harvester)
 
 
@@ -84,6 +84,8 @@
 
 - Smelting support for nether gold ore (Added in v1.9)
 - Riptide now gives double the loot from the mob it kills (Added in v1.9)
+
+- Updated for 1.16.2 (Added in v1.9.1)
 
 # Smeltery Structure (3x3x5)
 
