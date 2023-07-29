@@ -1,4 +1,4 @@
-# Tinkerer's Craft v2.06.00 for Vanilla MC 1.16.X - 1.20.X
+# Tinkerer's Craft v2.06.02 for Vanilla MC 1.16.X - 1.20.X
 - Code by [touchportyl](https://github.com/touchportyl/)
 
 # Features
@@ -17,7 +17,7 @@
 - Custom quirks (Lightweight, Shiny, Prospector, Flaming)
 
 # Installation
-- Download tinkererscraft-v2.06.00.zip
+- Download tinkererscraft-v2.06.02.zip
 - Go to .minecraft/saves/<world_name>/datapacks/
 - Put the zip file inside
 - Enjoy!
